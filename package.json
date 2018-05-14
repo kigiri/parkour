@@ -4,7 +4,7 @@
   "description": "Parkour the web like a yamakazi",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "ava"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,14 @@
   "bugs": {
     "url": "https://github.com/kigiri/parkour/issues"
   },
-  "homepage": "https://github.com/kigiri/parkour#readme"
+  "homepage": "https://github.com/kigiri/parkour#readme",
+  "dependencies": {
+    "css-select": "^2.0.0",
+    "domelementtype": "^1.3.0",
+    "html-entities": "^1.2.1",
+    "htmlparser2": "^3.9.2"
+  },
+  "devDependencies": {
+    "ava": "1.0.0-beta.4"
+  }
 }

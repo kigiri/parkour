@@ -1,0 +1,29 @@
+{
+  "name": "parkour",
+  "version": "1.0.0",
+  "description": "Parkour the web like a yamakazi",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kigiri/parkour.git"
+  },
+  "keywords": [
+    "crawler",
+    "parser",
+    "html",
+    "web",
+    "crawling",
+    "parsing",
+    "scrapper",
+    "scrapping"
+  ],
+  "author": "Clément Denis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kigiri/parkour/issues"
+  },
+  "homepage": "https://github.com/kigiri/parkour#readme"
+}
